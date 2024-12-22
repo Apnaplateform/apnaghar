@@ -1,5 +1,5 @@
 # apnaghar
 this is my first repository
 <br>
-author vansh rathour
+author vansh rathour (apnaghar)
 
